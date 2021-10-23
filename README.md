@@ -1,2 +1,1 @@
-# discord
-bot
+# seikatu0-1
